@@ -6,7 +6,9 @@ New to Github, bound to get messy until I learn organizing....(later).
 Projects feature, the prefix "Project" at the beginning. 
 
 >Project 1: The Number Guessing Game (With Validation) 
+
 >Project 2: A Countdown Timer / Stopwatch
+
 >Project 3: The Restaurant Menu / Ordering System
 
 Note: Planning on edge-cases and more refining on these later on.
@@ -20,8 +22,11 @@ Note: Planning on edge-cases and more refining on these later on.
 
 # Future projects #
 >Project 4: Quiz Game (With Parallel Collections)
+
 >Project 5: The Flat-File Parser & Validator
+
 >Project 6: The Automated JSON Log Aggregator
+
 >Project 7: The Currency Converter & Exchange Tracker
 
  #Made with love!
