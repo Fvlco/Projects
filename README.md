@@ -36,3 +36,4 @@ Note: Planning on edge-cases and more refining on these later on.
 ### Project 7: The Currency Converter & Exchange Tracker
 
  *Made with love!*
+Please don't check the commit page......
