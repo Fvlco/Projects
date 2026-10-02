@@ -1,15 +1,15 @@
-# Python Learning Journey
+<img width="1207" height="606" alt="image" src="https://github.com/user-attachments/assets/4f42e0a0-896c-4200-8cd1-42d48f6aa40a" /># Python Learning Journey
 This repository holds my projects, used as milestones, as I learn Python from the basics by myself.
 New to Github, bound to get messy until I learn organizing....(later).
 
 # Completed projects #
 Projects feature, the prefix "Project" at the beginning. 
 
->Project 1: The Number Guessing Game (With Validation) 
+### Project 1: The Number Guessing Game (With Validation) 
 
->Project 2: A Countdown Timer / Stopwatch
+### Project 2: A Countdown Timer / Stopwatch
 
->Project 3: The Restaurant Menu / Ordering System
+### Project 3: The Restaurant Menu / Ordering System
 
 Note: Planning on edge-cases and more refining on these later on.
 
@@ -21,12 +21,12 @@ Note: Planning on edge-cases and more refining on these later on.
  
 
 # Future projects #
->Project 4: Quiz Game (With Parallel Collections)
+### Project 4: Quiz Game (With Parallel Collections)
 
->Project 5: The Flat-File Parser & Validator
+### Project 5: The Flat-File Parser & Validator
 
->Project 6: The Automated JSON Log Aggregator
+### Project 6: The Automated JSON Log Aggregator
 
->Project 7: The Currency Converter & Exchange Tracker
+### Project 7: The Currency Converter & Exchange Tracker
 
- #Made with love!
+ *Made with love!*
