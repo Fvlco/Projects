@@ -1,9 +1,12 @@
 # Python Learning Journey
 This repository holds my projects, used as milestones, as I learn Python from the basics by myself.
+
 New to Github, bound to get messy until I learn organizing....(later).
 
+(Look at that! Spamming commit changes every second and not seeing the preview button)
+
 # Completed projects #
-Projects feature, the prefix "Project" at the beginning. 
+Projects feature, the prefix "Project" at the beginning... (very creative). 
 
 ### Project 1: The Number Guessing Game (With Validation) 
 
@@ -15,9 +18,12 @@ Note: Planning on edge-cases and more refining on these later on.
 
  # Learned #
  New syntax's each project. 
+ 
  Learning to read error codes and solve by self.
+ 
  Upgrading methodology in tackling complex projects as I build ground up. 
- Refining my logical assessment. 
+ 
+ Refining my logical assessment (when I have functional neurons). 
  
 
 # Future projects #
