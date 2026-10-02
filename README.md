@@ -1,4 +1,4 @@
-<img width="1207" height="606" alt="image" src="https://github.com/user-attachments/assets/4f42e0a0-896c-4200-8cd1-42d48f6aa40a" /># Python Learning Journey
+# Python Learning Journey
 This repository holds my projects, used as milestones, as I learn Python from the basics by myself.
 New to Github, bound to get messy until I learn organizing....(later).
 
